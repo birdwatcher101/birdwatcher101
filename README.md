@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @birdwatcher101
+- 👀 I’m interested in technology
+- 🌱 I’m currently learning JavsScript
